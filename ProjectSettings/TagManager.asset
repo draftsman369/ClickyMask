@@ -9,6 +9,7 @@ TagManager:
   - ScreenCamera
   - cockpit_capitalLaser
   - Bad
+  - Good
   layers:
   - Default
   - TransparentFX
